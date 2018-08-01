@@ -1,7 +1,7 @@
 """
-Source	    : https://leetcode-cn.com/problems/sort-colors/description/
-Author	    : Lianfeng Shen
-Date	    : 2018-07-24
+Source: https://leetcode-cn.com/problems/sort-colors/description/
+Author: Lianfeng Shen
+Date:   2018-07-24
 """
 
 class Solution:
