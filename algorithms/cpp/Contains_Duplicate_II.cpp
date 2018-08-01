@@ -1,6 +1,6 @@
-// Source	    : https://leetcode-cn.com/problems/contains-duplicate-ii/description/
-// Author	    : Lianfeng Shen
-// Date         : 2018-08-01
+// Source:  https://leetcode-cn.com/problems/contains-duplicate-ii/description/
+// Author:  Lianfeng Shen
+// Date:    2018-08-01
 
 class Solution {
 public:

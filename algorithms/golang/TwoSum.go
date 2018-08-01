@@ -1,6 +1,6 @@
-// Source	: https://leetcode-cn.com/problems/two-sum/description/
-// Author	: Lianfeng Shen
-// Date		: 2018-07-23
+// Source:	https://leetcode-cn.com/problems/two-sum/description/
+// Authou:	Lianfeng Shen
+// Date:	2018-07-23
 
 func twoSum(nums []int, target int) []int {
     num_map := make(map[int]int)
