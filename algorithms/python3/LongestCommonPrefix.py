@@ -1,3 +1,9 @@
+"""
+Source: https://leetcode-cn.com/problems/longest-common-prefix/description/
+Author: Lianfeng Shen
+Date:   2018-08-28
+"""
+
 class Solution:
     def longestCommonPrefix(self, strs):
         """
