@@ -14,6 +14,7 @@ LeetCode
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) | [C++](./algorithms/cpp/MaximumSubarray.cpp) | Easy |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/description/) | [C++](./algorithms/cpp/TrappingRainWater.cpp) | Hard |
 | 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/) | [C++](./algorithms/cpp/GenerateParentheses.cpp) | Medium |
+| 15 | [3Sum](https://leetcode-cn.com/problems/3sum/description/) | [C++](./algorithms/cpp/3Sum.cpp) | Medium |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) | [Python](./algorithms/python3/LongestCommonPrefix.py) | Easy |
 | 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/) | [C++](./algorithms/cpp/IntegertoRoman.cpp) | Medium |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [Go](./algorithms/golang/TwoSum.go) | Easy |
