@@ -1,3 +1,7 @@
+// Source:  https://leetcode-cn.com/problems/clone-graph/description/
+// Author:  Lianfeng Shen
+// Date:    2018-10-16
+
 /**
  * Definition for undirected graph.
  * struct UndirectedGraphNode {
