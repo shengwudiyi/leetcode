@@ -7,7 +7,6 @@
 #include <iostream>
 using namespace std;
 
-
 class Solution {
 public:
     bool isInterleave(string s1, string s2, string s3) {
@@ -23,7 +22,6 @@ public:
         return dp[s1.length()][s2.length()] == 1;
     }
 };
-
 
 int main() {
     string s1 = "aab";
