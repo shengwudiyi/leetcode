@@ -16,6 +16,7 @@ LeetCode
 | 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/) | [Python](./algorithms/python3/SortColors.py) | Medium |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) | [C++](./algorithms/cpp/MaximumSubarray.cpp) | Easy |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/description/) | [C++](./algorithms/cpp/TrappingRainWater.cpp) | Hard |
+| 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | [C++](./algorithms/cpp/ImplementstrStr.cpp) | Easy |
 | 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/) | [C++](./algorithms/cpp/GenerateParentheses.cpp) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) | [Go](./algorithms/golang/RemoveNthNodeFromEndofList.go) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](./algorithms/cpp/LetterCombinationsofaPhoneNumber.cpp) | Medium |
