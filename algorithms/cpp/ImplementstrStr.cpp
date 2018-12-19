@@ -8,7 +8,6 @@ public:
         int hl = haystack.size();
         int nl = needle.size();
 
-        if(nl > hl) return -1;
         for(int i=0; i <= hl-nl; i++){
             if(haystack.substr(i, nl) == needle)
                 return i;
