@@ -14,6 +14,7 @@ LeetCode
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/) | [C++](./algorithms/cpp/SymmetricTree.cpp) | Easy |
 | 97 | [Interleaving String](https://leetcode-cn.com/problems/interleaving-string/description/) | [C++](./algorithms/cpp/InterleavingString.cpp) | Hard |
 | 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/) | [Python](./algorithms/python3/SortColors.py) | Medium |
+| 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [Python](./algorithms/python3/MergeIntervals.py) | Medium |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) | [C++](./algorithms/cpp/MaximumSubarray.cpp) | Easy |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/description/) | [C++](./algorithms/cpp/TrappingRainWater.cpp) | Hard |
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | [C++](./algorithms/cpp/ImplementstrStr.cpp) | Easy |
