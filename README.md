@@ -25,4 +25,4 @@ LeetCode
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/description/) | [C++](./algorithms/cpp/3Sum.cpp) | Medium |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) | [Python](./algorithms/python3/LongestCommonPrefix.py) | Easy |
 | 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/) | [C++](./algorithms/cpp/IntegertoRoman.cpp) | Medium |
-| 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [C++](./algorithms/cpp/1.two_sum.cc) [Go](./algorithms/golang/TwoSum.go) | Easy |
+| 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [C++](./algorithms/cpp/1.two_sum.cpp) [Go](./algorithms/golang/TwoSum.go) | Easy |
