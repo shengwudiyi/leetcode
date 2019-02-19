@@ -8,8 +8,7 @@ public:
         int bitmap[128];
         memset(bitmap, -1, sizeof(bitmap));
         
-        int left = 0;
-        int maxLen = 0;
+        int left(0), maxLen(0);
         
         for(int i = 0; i < s.size(); i++) {
             if(bitmap[s[i]] < left) {
