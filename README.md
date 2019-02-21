@@ -25,6 +25,7 @@ LeetCode
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/description/) | [C++](./algorithms/cpp/3Sum.cpp) | Medium |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) | [Python](./algorithms/python3/LongestCommonPrefix.py) | Easy |
 | 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/) | [C++](./algorithms/cpp/IntegertoRoman.cpp) | Medium |
+| 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [C++](./algorithms/cpp/7.reverse_integer.cpp) | Easy |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [C++](./algorithms/cpp/3.longest_substring_without_repeating_characters.cpp) | Medium |
 | 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [C++](./algorithms/cpp/2.add_two_numbers.cpp) | Medium |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [C++](./algorithms/cpp/1.two_sum.cpp) [Go](./algorithms/golang/TwoSum.go) | Easy |
