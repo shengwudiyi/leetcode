@@ -18,6 +18,7 @@ LeetCode
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [Python](./algorithms/python3/MergeIntervals.py) | Medium |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) | [C++](./algorithms/cpp/MaximumSubarray.cpp) | Easy |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/description/) | [C++](./algorithms/cpp/TrappingRainWater.cpp) | Hard |
+| 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python](./algorithms/python3/29.DivideTwoIntegers.py) | Medium |
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | [C++](./algorithms/cpp/ImplementstrStr.cpp) | Easy |
 | 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/) | [C++](./algorithms/cpp/GenerateParentheses.cpp) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) | [Go](./algorithms/golang/RemoveNthNodeFromEndofList.go) | Medium |
