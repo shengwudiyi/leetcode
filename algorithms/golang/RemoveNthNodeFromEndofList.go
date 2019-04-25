@@ -2,13 +2,6 @@
 // Authou:	Lianfeng Shen
 // Date:	2018-09-26
 
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
 	if head.Next == nil {
 		return nil
