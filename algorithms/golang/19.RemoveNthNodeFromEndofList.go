@@ -1,14 +1,14 @@
-// Source :	https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/
+// Source :	https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
 // Author :	Lianfeng Shen
 // Date   :	2019-04-25
 
-package golang
-
-type ListNode struct {
-    Val int
-    Next *ListNode
-}
-
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
     lead := &ListNode{0, head}
     fast := lead
