@@ -2,6 +2,8 @@
 // Author :	Lianfeng Shen
 // Date   :	2019-04-25
 
+package golang
+
 func twoSum(nums []int, target int) []int {
     m := make(map[int]int)
     for i, num := range nums {
