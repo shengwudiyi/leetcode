@@ -1,5 +1,5 @@
 // Source:	https://leetcode-cn.com/problems/two-sum/description/
-// Authou:	Lianfeng Shen
+// Author:	Lianfeng Shen
 // Date:	2019-04-25
 
 
