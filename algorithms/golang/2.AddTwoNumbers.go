@@ -14,12 +14,11 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
     head := p
     
     carry := 0
-    value := 0
     for l1 != nil || l2 != nil || carry != 0 {
         sum := getValueAndMoveNext(&l1) + getValueAndMoveNext(&l2) + carry
-        value, carry = sum % 10, sum / 10 
+        carry = sum / 10 
         
-        p.Next = &ListNode{value, nil}
+        p.Next = &ListNode{sum % 10, nil}
         p = p.Next
     }
     
