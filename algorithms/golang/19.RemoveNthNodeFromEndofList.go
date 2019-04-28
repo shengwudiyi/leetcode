@@ -1,6 +1,6 @@
-// Source :	https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
-// Author :	Lianfeng Shen
-// Date   :	2019-04-25
+// Source : https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+// Author : Lianfeng Shen
+// Date   : 2019-04-25
 
 /**
  * Definition for singly-linked list.
