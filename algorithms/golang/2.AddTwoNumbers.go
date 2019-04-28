@@ -1,6 +1,6 @@
 // Source : https://leetcode-cn.com/problems/add-two-numbers/
-// Author :	Lianfeng Shen
-// Date   :	2019-04-25
+// Author : Lianfeng Shen
+// Date   : 2019-04-25
 
 /**
  * Definition for singly-linked list.
