@@ -1,6 +1,6 @@
-// Source :	https://leetcode-cn.com/problems/merge-intervals/
-// Author :	Lianfeng Shen
-// Date   :	2019-04-28
+// Source : https://leetcode-cn.com/problems/merge-intervals/
+// Author : Lianfeng Shen
+// Date   : 2019-04-28
 
 func merge(intervals [][]int) [][]int {
     quickSort(&intervals, 0, len(intervals) - 1)
