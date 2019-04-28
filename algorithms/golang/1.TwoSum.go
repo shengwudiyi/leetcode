@@ -11,6 +11,6 @@ func twoSum(nums []int, target int) []int {
             m[num] = i
         }
     }
-    
+
     return []int{}
 }

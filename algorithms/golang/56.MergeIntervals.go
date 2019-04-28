@@ -4,9 +4,9 @@
 
 func merge(intervals [][]int) [][]int {
     quickSort(&intervals, 0, len(intervals) - 1)
-    
+
     solutions := [][]int{}
-    
+
     for i, curIndex := 0, -1; i < len(intervals); i++ {
         if curIndex > -1 && intervals[i][0] <= solutions[curIndex][1] {
             solutions[curIndex][1] = max(intervals[i][1], solutions[curIndex][1])
@@ -38,7 +38,7 @@ func quickSort(intervals *[][]int, p int, r int) {
 
 func partition(intervals *[][]int, p int, r int) int {
     pivot := (*intervals)[r]
-    
+
     i := p
     for j := p; j < r; j++ {
         if (*intervals)[j][0] < pivot[0] {
