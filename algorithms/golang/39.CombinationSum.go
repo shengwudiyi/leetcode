@@ -4,7 +4,7 @@
 
 func combinationSum(candidates []int, target int) [][]int {
     r := [][]int{}
-	
+
     dfs(&candidates, 0, &[]int{}, target, &r)
     return r
 }
@@ -21,6 +21,6 @@ func dfs(candidates *[]int, i int, arr *[]int, target int, r *[][]int) {
     *arr = append(*arr, (*candidates)[i])
     dfs(candidates, i, arr, target - (*candidates)[i], r)
     
-    *arr = (*arr)[:len(*arr) - 1]
+    *arr = (*arr)[: len(*arr) - 1]
     dfs(candidates, i+1, arr, target, r)
 }
