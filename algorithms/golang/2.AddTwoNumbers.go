@@ -10,26 +10,26 @@
  * }
  */
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
-    p    := &ListNode{0, nil}
-    head := p
+	p := &ListNode{0, nil}
+	head := p
 
-    carry := 0
-    for l1 != nil || l2 != nil || carry != 0 {
-        sum := getValueAndMoveNext(&l1) + getValueAndMoveNext(&l2) + carry
-        carry = sum / 10 
+	carry := 0
+	for l1 != nil || l2 != nil || carry != 0 {
+		sum := getValueAndMoveNext(&l1) + getValueAndMoveNext(&l2) + carry
+		carry = sum / 10
 
-        p.Next = &ListNode{sum % 10, nil}
-        p = p.Next
-    }
+		p.Next = &ListNode{sum % 10, nil}
+		p = p.Next
+	}
 
-    return head.Next
+	return head.Next
 }
 
 func getValueAndMoveNext(p **ListNode) int {
-    val := 0
-    if *p != nil {
-        val = (*p).Val
-        *p  = (*p).Next
-    }
-    return val
+	val := 0
+	if *p != nil {
+		val = (*p).Val
+		*p = (*p).Next
+	}
+	return val
 }
