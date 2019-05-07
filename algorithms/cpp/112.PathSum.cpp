@@ -16,11 +16,9 @@ public:
     bool hasPathSum(TreeNode* root, int sum) {
         if (!root) {
             return false;
-        }
-        else if (!root->left && !root->right && root->val == sum) {
+        } else if (!root->left && !root->right && root->val == sum) {
             return true;
-        }
-        else {
+        } else {
             return hasPathSum(root->left, sum - root->val) || hasPathSum(root->right, sum - root->val);
         }
     }
