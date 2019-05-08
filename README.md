@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title                                                                                                                              | Solution                                                                                        | Difficulty |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- |
+| 728 | [Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                                                   | [Python](./algorithms/python3/728.SelfDividingNumbers.py)                                       | Easy       |
 | 704 | [Binary Search](https://leetcode-cn.com/problems/binary-search/)                                                                   | [C++](./algorithms/cpp/BinarySearch.cpp)                                                        | Easy       |
 | 368 | [Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)                                             | [C++](./algorithms/cpp/368.LargestDivisibleSubset.cpp)                                          | Medium     |
 | 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/)                                                                     | [C++](./algorithms/cpp/231.PowerofTwo.cpp)                                                      | Easy       |
