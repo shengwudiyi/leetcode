@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title                                                                                                                              | Solution                                                                                        | Difficulty |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- |
+| 766 | [Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)                                                               | [C++](./algorithms/cpp/766.ToeplitzMatrix.cpp)                                                  | Easy       |
 | 728 | [Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)                                                   | [Python](./algorithms/python3/728.SelfDividingNumbers.py)                                       | Easy       |
 | 704 | [Binary Search](https://leetcode-cn.com/problems/binary-search/)                                                                   | [C++](./algorithms/cpp/BinarySearch.cpp)                                                        | Easy       |
 | 368 | [Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)                                             | [C++](./algorithms/cpp/368.LargestDivisibleSubset.cpp)                                          | Medium     |
