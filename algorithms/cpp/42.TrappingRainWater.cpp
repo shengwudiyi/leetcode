@@ -1,6 +1,6 @@
-// Source :  https://leetcode-cn.com/problems/trapping-rain-water/
-// Author :  Lianfeng Shen
-// Date   :  2019-05-15
+// Source : https://leetcode-cn.com/problems/trapping-rain-water/
+// Author : Lianfeng Shen
+// Date   : 2019-05-15
 
 class Solution {
 public:
