@@ -2,6 +2,7 @@
 // Author:  Lianfeng Shen
 // Date:    2018-08-31
 
+// recursive
 class Solution {
 public:
     bool isSymmetric(TreeNode *root) {
@@ -10,10 +11,11 @@ public:
     }
     
     bool isSymmetric(TreeNode *p, TreeNode *q) {
-        if (p==NULL && q==NULL) return true;
-        if (p==NULL || q==NULL) return false;
+        if (p==NULL || q==NULL) return p == q;
         return (p->val == q->val) &&
                 isSymmetric(p->left, q->right) &&
                 isSymmetric(p->right, q->left);
     }
 };
+
+// non recursive
