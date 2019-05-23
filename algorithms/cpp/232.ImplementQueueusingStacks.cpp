@@ -26,9 +26,7 @@ public:
     
     /** Removes the element from in front of queue and returns that element. */
     int pop() {
-        if (empty()) return 0;
         if (out.empty()) transfer();
-        
         int temp = out.top(); out.pop();
         
         return temp;
@@ -36,7 +34,6 @@ public:
     
     /** Get the front element. */
     int peek() {
-        if (empty()) return 0;
         if (out.empty()) transfer();
         
         return out.top();
