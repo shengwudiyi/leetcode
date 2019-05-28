@@ -13,7 +13,6 @@ class Solution:
         else:
             return A
         
-        
         for j in range(len(A)-1, i, -1):
             if A[j] < A[i]:
                 break
