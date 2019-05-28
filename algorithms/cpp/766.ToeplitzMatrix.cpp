@@ -1,6 +1,6 @@
-// Source :  https://leetcode-cn.com/problems/toeplitz-matrix/
-// Author :  Lianfeng Shen
-// Date   :  2019-05-10
+// Source : https://leetcode-cn.com/problems/toeplitz-matrix/
+// Author : Lianfeng Shen
+// Date   : 2019-05-10
 
 #define IOS ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
