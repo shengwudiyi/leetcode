@@ -6,7 +6,6 @@ Date   : 2019-05-28
 
 class Solution:
     def prevPermOpt1(self, A: List[int]) -> List[int]:
-        
         for i in range(len(A)-2, -1, -1):
             if A[i] > A[i+1]:
                 break
@@ -16,7 +15,6 @@ class Solution:
         for j in range(len(A)-1, i, -1):
             if A[j] < A[i]:
                 break
-                
         while A[j] == A[j-1]:
             j -= 1
                 
