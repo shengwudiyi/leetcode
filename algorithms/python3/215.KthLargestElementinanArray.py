@@ -20,7 +20,6 @@ class Solution:
             
             nums[q], nums[r] = nums[r], nums[q]
             
-            
             if k == q:
                 return nums[k]
             elif k > q:
