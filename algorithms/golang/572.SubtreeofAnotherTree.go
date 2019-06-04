@@ -11,8 +11,8 @@
  * }
  */
 func isSubtree(s *TreeNode, t *TreeNode) bool {
-	if s == nil && t != nil {
-		return false
+	if s == nil {
+		return t == nil
 	} else {
 		return isSametree(s, t) || isSubtree(s.Left, t) || isSubtree(s.Right, t)
 	}
